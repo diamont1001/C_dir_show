@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1319623758 source:e:\work\c_workspace\dir_show\main.cpp
+	<unistd.h>
+	<stdio.h>
+	<dirent.h>
+	<string.h>
+	<sys/stat.h>
+
